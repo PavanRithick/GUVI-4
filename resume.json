@@ -1,0 +1,93 @@
+{
+    "name": "Pavan Rithick Velpuri",
+    "location": {
+      "city": "Hyderabad",
+      "postal_code": "500055",
+      "country": "India"
+    },
+    "contact": {
+      "phone": "+91 9182866646",
+      "email": "pavanrithick@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/pavan-rithick-velpuri-98a896258/"
+    },
+    "summary": "A passionate learner with solid knowledge in C, Java, Data Structures, and Web Development. I excel in collaborative environments and thrive on tackling challenging problems. Seeking opportunities to leverage my skills in the tech industry.",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering - Computer Science and Engineering",
+        "institution": "Matrusri Engineering College",
+        "location": "Hyderabad",
+        "dates": "Nov 2021 - Ongoing",
+        "cgpa": "7.89/10.0"
+      },
+      {
+        "degree": "Intermediate (MPC)",
+        "institution": "Krishnamurthy Junior College",
+        "location": "Hyderabad",
+        "dates": "Sep 2019 - Apr 2021",
+        "percentage": "96.6%"
+      }
+    ],
+    "internships": [
+      {
+        "role": "Summer Intern",
+        "company": "South Central Railway",
+        "dates": "Jun 2024",
+        "location": "On-Site",
+        "description": "Analyzed FDMA frequencies and generated outputs using the Kermit algorithm in Python."
+      },
+      {
+        "role": "Research And Development Intern",
+        "company": "Defence Electronics Research Laboratory",
+        "dates": "Jun 2024",
+        "location": "On-Site",
+        "description": "Worked on an Emotion Detection and Sentiment Analysis project using Python, TensorFlow, Keras, Pandas, and Flask."
+      }
+    ],
+    "skills": {
+      "intermediate": ["C", "Java", "HTML", "CSS", "JavaScript", "Node.js", "Express.js", "React.js"],
+      "basic": ["Python", "Tailwind", "SQL", "MongoDB"]
+    },
+    "projects": [
+      {
+        "name": "Amazon.in and Geeks for Geeks Clone",
+        "description": "Developed a replica of Amazon.in using HTML, CSS, and JavaScript, demonstrating front-end proficiency."
+      },
+      {
+        "name": "Tourism Website",
+        "description": "Developed a tourism website with the MERN stack, allowing users and hotel managers to manage bookings."
+      },
+      {
+        "name": "Currency Converter and Weather Web Applications",
+        "description": "Designed and developed interactive apps using HTML, CSS, JavaScript, and APIs."
+      }
+    ],
+    "certifications": [
+      { "name": "SQL", "organization": "HackerRank", "year": 2024 },
+      { "name": "HTML CSS and JavaScript", "organization": "IBM", "year": 2024 },
+      { "name": "Python 3.4.3", "organization": "Spoken Tutorial", "year": 2023 },
+      { "name": "Java", "organization": "Guvi", "year": 2023 }
+    ],
+    "awards": [
+      {
+        "title": "2nd Position in Coding Round",
+        "organization": "Matrusri Engineering College",
+        "year": 2024,
+        "description": "Secured 2nd place among 120 students in a coding round."
+      }
+    ],
+    "volunteering": [
+      {
+        "role": "Student President",
+        "organization": "Association for Computing Machinery-MECS",
+        "dates": "Sep 2022 - Sep 2023",
+        "description": "Organized workshops and led the ACM MECS chapter inauguration."
+      },
+      {
+        "role": "Event Planner",
+        "organization": "WithYou NGO",
+        "dates": "Mar 2022 - Ongoing",
+        "description": "Participated in various events like blood donation drives and member selection."
+      }
+    ]
+  }
+  
